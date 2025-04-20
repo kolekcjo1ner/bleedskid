@@ -1,0 +1,19 @@
+{
+  "name": "bleed-js-updated",
+  "version": "1.0.0",
+  "description": "Updated version of bleed.js Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "canvas": "^2.11.2",
+    "discord.js": "^14.14.1",
+    "play-dl": "^1.9.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
